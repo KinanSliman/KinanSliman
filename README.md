@@ -49,12 +49,3 @@ I enjoy solving complex problems, working end-to-end on applications, and contin
 - MySQL  
 - Git & GitHub  
 
----
-
-## 🌐 Contact  
-📫 **Email:** kin.as.sy@gmail.com  
-🔗 **LinkedIn:** _Add your link here_  
-💼 **Portfolio:** _Add your link here_  
-
----
-
